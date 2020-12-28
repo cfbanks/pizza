@@ -86,5 +86,5 @@ ___
     
     - Here is a screenshot of the dough calculator recipe I would recommend using. The screen cut off the amount of dough balls, but this one was for 8 dough balls each weighing 200 g:
 
-    <img src="60_ooni_calculator.jpg" alt = "60% dough calculator image" width= "25%" height= "25%" title= "60% same day dough">
+    <img src="60_ooni_calculator.jpg" alt = "60% dough calculator image" width= "50%" height= "50%" title= "60% same day dough">
 
