@@ -79,7 +79,7 @@ ___
 - If you don't have a scale or don't want to measure out the ingredients by weight, then this is a good beginner dough recipe:
 [No scale dough recipe](https://1drv.ms/b/s!AphyVVKBHcOagcpmV3Ay4bHFRwK2Cw?e=nmBWsw "No Scale Dough Recipe")
 
-- If you have a 24-72 hours to do a cold proof, then I like this recipe from Ooni: [Ooni cold proof pizza dough recipe](https://ooni.com/blogs/recipes/cold-prove-pizza-dough "Ooni cold proof pizza dough recipe"). A cold proof is supposed to give a better flavour to the dough, but I don't notice a huge difference. 
+- If you have 24-72 hours to do a cold proof, then I like this recipe from Ooni: [Ooni cold proof pizza dough recipe](https://ooni.com/blogs/recipes/cold-prove-pizza-dough "Ooni cold proof pizza dough recipe"). A cold proof is supposed to give a better flavour to the dough, but I don't notice a huge difference. 
 
 - I have recently tried using Ooni's dough calculator on their phone app and I have enjoyed it. I found that the yeast amounts seemed off for cold proofing dough for shorter times like 24 hours, but it seemed accurate for doing same day dough. I will walk you through the process of making same day dough using the app. 
     -  If you scroll down to the bottom of the ooni [home page](https://ooni.com/?gclid=Cj0KCQiAoab_BRCxARIsANMx4S79jautVC8CwdMAbzArlk5Ps2qGOD3FC_w_tlkM_eCIyR0oAfPJpdMaAhuREALw_wcB "ooni website") you will see the link for downloading the app.
