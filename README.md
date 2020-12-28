@@ -74,10 +74,10 @@ ___
 
 ## Recipes
 
-#### Dough Recipe:
+#### Dough Recipe
 
 - If you don't have a scale or don't want to measure out the ingredients by weight, then this is a good beginner dough recipe:
-[No scale dough recipe](https://1drv.ms/b/s!AphyVVKBHcOagcpmV3Ay4bHFRwK2Cw?e=nmBWsw "No Scale Dough Recipe")
+[No scale dough recipe](https://1drv.ms/b/s!AphyVVKBHcOagcprI5mXOKVcWFaR3A?e=hjpH5q "No Scale Dough Recipe")
 
 - If you have 24-72 hours to do a cold proof, then I like this recipe from Ooni: [Ooni cold proof pizza dough recipe](https://ooni.com/blogs/recipes/cold-prove-pizza-dough "Ooni cold proof pizza dough recipe"). A cold proof is supposed to give a better flavour to the dough, but I don't notice a huge difference. 
 
@@ -86,5 +86,76 @@ ___
     
     - Here is a screenshot of the dough calculator recipe I would recommend using. The screen cut off the amount of dough balls, but this one was for 8 dough balls each weighing 200 g:
 
-    <img src="60_ooni_calculator.jpg" alt = "60% dough calculator image" width= "50%" height= "50%" title= "60% same day dough">
+    <img src="60_ooni_calculator.jpg" alt = "60% dough calculator image" width= "60%" height= "60%" title= "60% same day dough">
 
+- Here are my usual steps for making this kind of same day dough:
+
+1. Use half the warm water and add yeast to it for 5 min to activate the yeast and dissolve the salt in the other half of the water. 
+
+2. After the yeast is activated, add flour, salt/water mixture, and yeast/water mixture to a stand mixer bowl with dough attachment and mix to 15-20 mins. 
+    - The dough should be smooth and stretchable at this point. If it still feels tough, you can let the dough rest for 10 min and then mix it for another 5 min if need be. This resting period softens up the dough. 
+
+3. Let the dough rise for about 45 minutes in the bowl with saran wrap covering it, or in another covered container. I grease the container with olive oil to prevent the dough from sticking to it. 
+
+4. Divide the dough into 8 equal sized balls (each should be 200 g) and fold them over. Here is a good video that shows how to do it: [dough forming video](https://youtu.be/VusTc9DnqOA "dough ball video")
+
+5. Place the balls on an olive oil greased cookie sheet (or proofing tray). Brush a thin layer of olive oil over the surface of the dough balls to prevent them from drying out. Cover with saran wrap (or the lid of the proofing tray)
+
+6. Let the dough balls rise for 4-6 hours (they should almost double in size). Now you can start making your pizzas!
+
+**One note about using this dough calculator:**
+- This recipe uses 60% hydration (percentage of water compared to flour). This makes a dough that is easy to handle and it works well. As you get more experience handling the dough, you can bump up the hydration level. I like a 65% hydration dough. The higher hydration makes for a lighter crust with more air bubbles when it comes to cooking. The higher hydration does make it harder to handle the dough since it is sticker and tears more easily. 
+
+#### Tomato Sauce Recipe
+
+- Here is a link to my favorite sauce recipe. I haven't tried many, but people seem to love this one. It doesn't make very much sauce, so I always end up doubling, or even quadrupling this recipe. For 4 pizzas I would double the recipe. 
+
+- [red sauce recipe](https://1drv.ms/b/s!AphyVVKBHcOa8jieZ5Kp76WG2Q_I?e=J7gqZ9 "red sauce recipe")
+
+- You will need a fine mesh strainer for this recipe. 
+
+___
+
+## Making the Pizzas
+
+Now that you have all the ingredients and the dough ready, it's time to make your pizza. I will walk through the steps I take here:
+
+1. Flour your counter that you will be stretching the dough on. You can use this video to learn how to stretch the dough: [dough stretching video](https://youtu.be/Entzcl8q7H4 "dough stretching video")
+
+    - **IMPORTANT:** Be sure to have a good amount of flour (or semolina flour) under your dough before you start adding toppings. I often make the pizza right on the peel, but whether you make it on the peel, or on the counter, you need enough flour under the pizza so it can slide on and off the peel. Once you start adding toppings, the dough will stick to the peel or counter if you don't have flour under it. 
+
+2. Add the sauce. You don't need as much sauce as you think. I usually only use 1-2 heaping tablespoons. As the pizza cooks, the liquid from the cheese mixes with the sauce and so if you have too much sauce, your pizza will seem watery. 
+
+3. Add the cheese. Again you don't need as much as you think. The chunks melt and spread out a lot as the pizza cooks. 
+
+4. Add the meat and a few basil leaves. 
+
+Here is a photo of what the pizza looks like before cooking:
+
+<img src="pizza_precook.jpg" alt = "pre-cooked pizza" width= "100%" height= "100%" title= "precooked pizza">
+
+## The Cook
+
+This part will be highly specific to your oven, so you will have to do some trial and error to get things how you like them. The infrared thermometer comes in handy here to help you figure out what temperature of your stone is best for cooking. 
+
+I use the Ooni Koda 12 pizza oven. It runs on propane, so it gives a consistent, steady heat. Mine takes about 20-30 minutes to preheat. 
+
+I used to try to get it as hot as I could, but I have found that the stone was too hot at the back near the flame, so part of the crust would get this brown look to it and it would taste very burnt. I have started to leave my stone a bit cooler and it has been working better. 
+
+I try to have the center of the stone be about 350-400 degrees Celsius. I was getting the burning when it was at 425-450 degrees. You can also cook the pizza more towards to opening of the oven if you want a cooler stone since the temperature varies greatly based on your distance from the flame. 
+
+I usually leave my flame on full blast (or whatever I had it at during preheating which is medium-high) during the cook. I basically treat the pizza like a square and cook all four sides. The first side cooks for 20-30 seconds, and the others for about 15-20 seconds each. I slide the pizza out each time to rotate it, but you can also get a small turning peel that allows you to turn the pizza inside the oven. 
+
+For my ideal cook. I like to see black "leopard spots" on the whole base of the pizza and around the crust. It's also nice to see some air bubbles form in the crust around the edge. 
+
+I don't have any great pictures showing the base after a cook, but here is one that shows the crust, and the base should look similar: 
+
+![cooked pizza](cooked_pizza.jpg "cooked pizza")
+
+The pizza above was made using a lower hydration dough. With the higher hydration, the rim of the crust puffs up better with more air bubbles. I will try to add some more pictures soon. 
+
+I hope you enjoy making your pizzas as much as I do!
+
+- Connor Fairbanks
+- Last updated December 28, 2020. 
+    
