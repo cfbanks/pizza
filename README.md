@@ -1,5 +1,5 @@
 
-# Connor's Neapolitan Style Pizza Process
+# My Neapolitan Style Pizza Process
 
 In 2016 I got by first backyard pizza oven, the Uuni (now Ooni) 2S. Since then, I have enjoyed making pizzas with friends and family. Now that these ovens are becoming more common, I have had multiple people ask me about recipes and the techniques I use, so I have decided to compile them into this online resource so they are easier to share. I hope you enjoy!
 
