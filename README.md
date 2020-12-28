@@ -86,5 +86,7 @@ ___
 - I have recently tried using Ooni's dough calculator on their phone app and I have enjoyed it. I found that the yeast amounts seemed off for cold proofing dough for shorter times like 24 hours, but it seemed accurate for doing same day dough. I will walk you through the process of making same day dough using the app. 
     -  If you scroll down to the bottom of the ooni [home page](https://ooni.com/?gclid=Cj0KCQiAoab_BRCxARIsANMx4S79jautVC8CwdMAbzArlk5Ps2qGOD3FC_w_tlkM_eCIyR0oAfPJpdMaAhuREALw_wcB "ooni website") you will see the link for downloading the app.
     
-    - The dough calculator looks like this: ADD SCREENSHOT
+    - Here is a screenshot of the dough calculator recipe I would recommend using. The screen cut off the amount of dough balls, but this one was for 8 dough balls each weighing 200 g:
+
+    ![60% dough calculator image](60_ooni_calculator.jpg "60% same day dough")
 
