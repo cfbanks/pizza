@@ -3,6 +3,10 @@
 
 In 2016 I got by first backyard pizza oven, the Uuni (now Ooni) 2S. Since then, I have enjoyed making pizzas with friends and family. Now that these ovens are becoming more common, I have had multiple people ask me about recipes and the techniques I use, so I have decided to compile them into this online resource so they are easier to share. I hope you enjoy!
 
+- A side note before we get into this: 
+    
+    If you prefer a video of how to do everything, I recently came across this YouTube video that I really like. His techniques are a little bit different from what I share here, but I think he has done more pizza research than me so you may want to try his technique as well some time. I will be giving it a try in the future. He also gives some tips on making a pizza if you only have a regular home oven instead of a dedicated pizza oven that can get to the higher temperatures that you need. Here is the link to the video: [https://youtu.be/l0nAMbbYziI](https://youtu.be/l0nAMbbYziI "great pizza video"). If you have about 30 minutes some time to watch it, you will learn a lot
+
 ___
 
 
@@ -88,9 +92,6 @@ ___
 
     <img src="60_ooni_calculator.jpg" alt = "60% dough calculator image" width= "60%" height= "60%" title= "60% same day dough">
 
-    - Side note: 
-    
-        If you prefer a video of how to do everything, I came across this YouTube video that I really like. His techniques are a little bit different from what I share here, but I think he has done more pizza research than me so you may want to try his technique as well some time. I will be giving it a try in the future. Here is the link to the video. If you have about 30 minutes some time to watch it, you will learn a lot: [https://youtu.be/l0nAMbbYziI](https://youtu.be/l0nAMbbYziI "great pizza video")
 
 - Here are my usual steps for making this kind of same day dough:
 
