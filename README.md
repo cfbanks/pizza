@@ -88,6 +88,10 @@ ___
 
     <img src="60_ooni_calculator.jpg" alt = "60% dough calculator image" width= "60%" height= "60%" title= "60% same day dough">
 
+    - Side note: 
+    
+        If you prefer a video of how to do everything, I came across this YouTube video that I really like. His techniques are a little bit different from what I share here, but I think he has done more pizza research than me so you may want to try his technique as well some time. I will be giving it a try in the future. Here is the link to the video. If you have about 30 minutes some time to watch it, you will learn a lot: [https://youtu.be/l0nAMbbYziI](https://youtu.be/l0nAMbbYziI "great pizza video")
+
 - Here are my usual steps for making this kind of same day dough:
 
 1. Use half the warm water and add yeast to it for 5 min to activate the yeast and dissolve the salt in the other half of the water. 
@@ -103,7 +107,12 @@ ___
 
 6. Let the dough balls rise for 4-6 hours (they should almost double in size). Now you can start making your pizzas!
 
+**Tip**:
+    
+- If you need your dough to rise faster, you can always put it in a warmer environment. Some ovens have a "proof" setting, or you can turn your oven on the lowest temperature until it preheats, then turn it off and just let the lingering heat create a warm place that the dough can rise in. 
+
 **One note about using this dough calculator:**
+
 - This recipe uses 60% hydration (percentage of water compared to flour). This makes a dough that is easy to handle and it works well. As you get more experience handling the dough, you can bump up the hydration level. I like a 65% hydration dough. The higher hydration makes for a lighter crust with more air bubbles when it comes to cooking. The higher hydration does make it harder to handle the dough since it is sticker and tears more easily. 
 
 #### Tomato Sauce Recipe
@@ -156,6 +165,7 @@ The pizza above was made using a lower hydration dough. With the higher hydratio
 
 I hope you enjoy making your pizzas as much as I do!
 
-- Connor Fairbanks
-- Last updated December 28, 2020. 
+- Connor
+
+- Last updated December 29, 2020. 
     
