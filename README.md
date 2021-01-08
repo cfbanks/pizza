@@ -168,5 +168,5 @@ I hope you enjoy making your pizzas as much as I do!
 
 - Connor
 
-- Last updated December 29, 2020. 
+- Last updated January 7, 2021. 
     
