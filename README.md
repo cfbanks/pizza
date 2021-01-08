@@ -122,7 +122,7 @@ ___
 
 - [red sauce recipe](https://1drv.ms/b/s!AphyVVKBHcOa8jieZ5Kp76WG2Q_I?e=J7gqZ9 "red sauce recipe")
 
-- You will need a fine mesh strainer for this recipe. If you don't have a fine mesh strainer, or you would like a thinner sauce (this one is quite thick), you can simply remove the stems from the tomatoes, pour off the excess liquid, and put the leftover tomatoes in a food processor or blender to make the sauce.  
+- You will need a fine mesh strainer for this recipe. If you don't have a fine mesh strainer, or if you would like a thinner sauce (this one is quite thick), you can simply remove the stems from the tomatoes, pour off the excess liquid, and put the tomatoes in a food processor or blender with the other ingredients to make the sauce.  
 
 ___
 
