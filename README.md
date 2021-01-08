@@ -67,7 +67,7 @@ ___
 
 #### Sauce 
 
-- I have only tried two different sauce recipes, but I like a certain one so much that I just stick to it. I will share the link to the sauce recipe later on. Using premade sauce works as well, but I would try to find one that is an uncooked sauce, or at least a sauce from an italian market. Regular pizza sauce off the shelf at a normal grocery store probably wouldn't be that good. 
+- I have only tried two different sauce recipes, but I like a certain one so much that I just stick to it. I will share the link to the sauce recipe later on. Using pre-made sauce works as well, but I would try to find one that is an uncooked sauce, or at least a sauce from an italian market. Regular pizza sauce off the shelf at a normal grocery store probably wouldn't be that good. 
 
 #### Other Toppings
 
@@ -106,7 +106,7 @@ ___
 
 5. Place the balls on an olive oil greased cookie sheet (or proofing tray). Brush a thin layer of olive oil over the surface of the dough balls to prevent them from drying out. Cover with saran wrap (or the lid of the proofing tray)
 
-6. Let the dough balls rise for 4-6 hours (they should almost double in size). Now you can start making your pizzas!
+6. Let the dough balls rise for about 4 hours (they should almost double in size). Now you can start making your pizzas!
 
 **Tip**:
     
@@ -122,7 +122,7 @@ ___
 
 - [red sauce recipe](https://1drv.ms/b/s!AphyVVKBHcOa8jieZ5Kp76WG2Q_I?e=J7gqZ9 "red sauce recipe")
 
-- You will need a fine mesh strainer for this recipe. 
+- You will need a fine mesh strainer for this recipe. If you don't have a fine mesh strainer, or you would like a thinner sauce (this one is quite thick), you can simply remove the stems from the tomatoes, pour off the excess liquid, and put the leftover tomatoes in a food processor or blender to make the sauce.  
 
 ___
 
